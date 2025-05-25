@@ -1,6 +1,7 @@
 A Power BI-based interactive dashboard for analyzing HR metrics such as attrition rate, employee demographics, and job role distribution. This dashboard helps HR professionals and business leaders make informed decisions based on data insights.
 
 📊 Features
+
 Total Employees: 1413
 
 Attrition Rate: 16.2% (229 employees)
